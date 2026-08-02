@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PrashikK01/LeetCode/tree/master/0035-search-insert-position) |
+| [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PrashikK01/LeetCode/tree/master/0231-power-of-two) |
+| [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PrashikK01/LeetCode/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
