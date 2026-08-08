@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrashikK01/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/PrashikK01/LeetCode/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/PrashikK01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrashikK01/LeetCode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/PrashikK01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
