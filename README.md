@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PrashikK01/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/PrashikK01/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 ## Bit Manipulation
