@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashikK01/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/PrashikK01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/PrashikK01/LeetCode/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/PrashikK01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/PrashikK01/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PrashikK01/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PrashikK01/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
