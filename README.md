@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PrashikK01/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/PrashikK01/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/PrashikK01/LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrashikK01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/PrashikK01/LeetCode/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +67,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrashikK01/LeetCode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/PrashikK01/LeetCode/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/PrashikK01/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
