@@ -7,15 +7,10 @@ public:
                 ans.insert(it);
             }
         }
-        int i = 1;
-        for(auto it : ans){
-            if(i * k == it){
-                i++;
-            }
-            else{
-                return i*k;
-            }
+        int i = k;
+        while(ans.count(i)){
+            i += k;
         }
-        return i*k;
+        return i;
     }
 };
