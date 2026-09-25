@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PrashikK01/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrashikK01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/PrashikK01/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashikK01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrashikK01/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrashikK01/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PrashikK01/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashikK01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrashikK01/LeetCode/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashikK01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
