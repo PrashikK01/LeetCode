@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/PrashikK01/LeetCode/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrashikK01/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrashikK01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrashikK01/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/PrashikK01/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrashikK01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
