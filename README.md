@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrashikK01/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrashikK01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrashikK01/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrashikK01/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrashikK01/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrashikK01/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrashikK01/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PrashikK01/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/PrashikK01/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/PrashikK01/LeetCode/tree/master/1927-sum-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrashikK01/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrashikK01/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrashikK01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrashikK01/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
